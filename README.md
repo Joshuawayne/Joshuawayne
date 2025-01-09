@@ -1,7 +1,7 @@
 Creating a profile README for your GitHub profile can help others understand more about you and your work. Here's a template you can start with:
 
 ```markdown
-# Hi there, I'm Joshua mERCY 👋
+# Hi there, I'm Joshua Mercy 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and building innovative solutions.
 
