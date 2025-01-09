@@ -10,9 +10,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 - 🔭 I’m currently working on Cow heat tracking system.
 - 🌱 I’m currently learning Next.js and Three js
 - 👯 I’m looking to collaborate on projects especailly those in the agricultural fields.
-- 🤔 I’m looking for help with on data analysis.
+- 🤔 I’m looking for help  on data analysis.
 - 💬 Ask me about web design,web development.
-- 📫 How to reach me: [Your Email or Social Media]
+- 📫 How to reach me:
+ mercyjoshu0@gmail.com
+twitter:https://x.com/yasukedebtera
 - ⚡ Fun fact: I dance and Paint.
 
 ## GitHub Stats
