@@ -2,7 +2,7 @@
 # Hi there, I'm Joshua Mercy 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and building innovative solutions.
-
+I am full stack developer with 3+ years experience, specailized in js frameworks,php and laravel,SQL .
 ## About Me
 
 - 🔭 I’m currently working on Cow heat tracking system.
