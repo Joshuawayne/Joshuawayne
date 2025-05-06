@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cow heat tracking system.<br>🌱 I’m currently learning Next.js and Three js<br>👯 I’m looking to collaborate on projects especailly those in the agricultural fields.<br>🤔 I’m looking for help on data analysis.<br>💬 Ask me about web design,web development.<br>📫 How to reach me: mercyjoshu0@gmail.com twitter:https://x.com/yasukedebtera<br>⚡ Fun fact: I dance and Paint.<br>📺my live istes :<br>a matrix loading page<br> https://matrixreloaded.netlify.app/ <br> A fashion magazine site <br>https://avantmagazine.netlify.app/
+🔭 I’m currently working on Cow heat tracking system.<br>🌱 I’m currently learning Next.js and Three js<br>👯 I’m looking to collaborate on projects especailly those in the agricultural fields.<br>🤔 I’m looking for help on data analysis.<br>💬 Ask me about web design,web development.<br>📫 How to reach me: mercyjoshu0@gmail.com twitter:https://x.com/yasukedebtera<br>⚡ Fun fact: I dance and Paint.<br>📺my live sites :<br>a matrix loading page<br> https://matrixreloaded.netlify.app/ <br> A fashion magazine site <br>https://avantmagazine.netlify.app/
 
 
 ## 🌐 Socials:
